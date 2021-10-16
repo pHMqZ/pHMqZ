@@ -1,7 +1,8 @@
-<h1 align="center">Hi , I'm Phillip Marques</h1>
-<h3 align="left">I'm graduated in Animal Science, currently working as a data analyst, using Excel for analysis. I've been studying Python, R and Java.</h3>
+Hi , I'm Phillip Marques
+I'm graduated in Animal Science, currently working as a data analyst, using Excel for analysis. I've been studying Python, R and Java.
 
-<h3>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pHMqZ)]</h3>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pHMqZ&repo=pHMqZ&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
   
   
 <h3 align="left">Connect with me:</h3>
