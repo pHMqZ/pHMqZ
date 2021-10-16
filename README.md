@@ -1,6 +1,9 @@
 <h1 align="center">Hi , I'm Phillip Marques</h1>
 <h3 align="left">I'm graduated in Animal Science, currently working as a data analyst, using Excel for analysis. I've been studying Python, R and Java.</h3>
 
+<h3>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pHMqZ)]</h3>
+  
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/phillip-marques-201832161/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/phillip-marques-201832161/" height="30" width="70" /></a>
