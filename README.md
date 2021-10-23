@@ -1,5 +1,6 @@
 <h1 align="center"> Hi , I'm Phillip Marques</h1>
-I'm graduated in Animal Science, currently working as a data analyst, using Excel for analysis. I've been studying Python, R and Java.
+<p> I'm graduated in Animal Science, currently working as a data analyst, using Excel for analysis.</p>
+<p> I've been studying Python, R and Java.</p>
 
   
   
