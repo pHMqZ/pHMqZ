@@ -3,6 +3,8 @@
 <p> A lover of technology</p>
 <p> I've been studying Java, Pynthon and R.</p>
 
+<p>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
