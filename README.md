@@ -12,6 +12,7 @@
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="spring"/> 
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="mysql"/>
   <a href="https://api.badgr.io/public/assertions/o94dn5BtSdCffiFQIzGEEA?identity__email=phillipmarq%40hotmail.com"> <img src="https://img.icons8.com/fluency/48/000000/docker.png"/></a>
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="angularJS"/>
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="aws"/>
 </p>
 
