@@ -1,7 +1,7 @@
 <h1 align="center"> Hi , I'm Phillip Marques</h1>
 <p> I'm graduated in Animal Science</p>
 <p> A lover of technology</p>
-<p> I've been studying Java, Pynthon and R.</p>
+<p> I've been studying Java and C#.</p>
 
 <p>
 </p>
