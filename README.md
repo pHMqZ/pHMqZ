@@ -24,6 +24,8 @@
 
 
 <div align="left"><br>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pHMqZ&repo=pHMqZ&count_private=true&show_icons=true&theme=algolia"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pHMqZ&layout=compact&theme=algolia&langs_count=10"/>
+  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pHMqZ&repo=pHMqZ&count_private=true&show_icons=true&theme=algolia"/> </a>
+  <br/>
+  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pHMqZ&layout=compact&theme=algolia&langs_count=10&hide=css"/> </a>
+ 
 </div>
