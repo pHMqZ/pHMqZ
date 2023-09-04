@@ -1,7 +1,7 @@
 <h1 align="center"> Hi , I'm Phillip Marques</h1>
 <p> A lover of technology</p>
 <p> I've been studying to make a career transition to the programming area, I started studying Java and MySQL, in some courses I started to see a little bit about cloud and frontend.</p>
-<p>I'm currently working on a project where I'm responsible for creating test scenarios and implementing system tests for ASP.NET web application improvements..</p>
+<p>I'm currently working on a project where I'm responsible for creating test scenarios and implementing system tests for ASP.NET web application improvements.</p>
 
 <p>
 </p>
