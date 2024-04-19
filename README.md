@@ -14,7 +14,7 @@
   <a href="https://api.badgr.io/public/assertions/o94dn5BtSdCffiFQIzGEEA?identity__email=phillipmarq%40hotmail.com"> <img src="https://img.icons8.com/fluency/48/000000/docker.png"/></a>
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="angularJS"/>
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="aws"/>
-  <img src="https://icons8.com/icon/55205/c-sharp-logo" alt="c#" />
+  <img src="https://img.icons8.com/?size=48&id=55251&format=png" alt="C#"/>
 </p>
 
 <h3 align="left">Connect with me:</h3>
