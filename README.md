@@ -1,10 +1,8 @@
 <h1 align="center"> Hi , I'm Phillip Marques</h1>
 <p> A lover of technology</p>
-<p> I've been studying to make a career transition to the programming area, I started studying Java and MySQL, in some courses I started to see a little bit about cloud and frontend.</p>
-<p>I'm currently working on a project where I'm responsible for creating test scenarios and implementing system tests for ASP.NET web application improvements.</p>
-
-<p>
-</p>
+<p> I'm a software development professional with a focus on software quality and two years' experience in acceptance testing and systems testing. I have in-depth knowledge of relational databases, including SQL Server, MySQL and PostgreSQL, and am proficient in back-end programming languages such as Java and C#, as well as the Spring Boot Framework. My skills include time management, problem solving and assertive communication.</p>
+<p>I currently work as a Manual Test Analyst on an ASP.NET web application project. My main role is to carry out acceptance testing and systems testing, ensuring that the needs of the development team and clients are met. I have experience working with teams using agile methodologies such as Scrum.</p>
+</br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
