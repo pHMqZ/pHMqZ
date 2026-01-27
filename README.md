@@ -4,22 +4,47 @@ Analista de Qualidade de Software com mais de 3 anos de experiência em testes m
 
 Tenho atuação consistente em ambientes ágeis (Scrum e Kanban), colaborando com squads multidisciplinares para garantir a qualidade contínua do produto e o alinhamento entre os requisitos técnicos e de negócio. Acredito que qualidade é uma responsabilidade coletiva e oriento meu trabalho por esse princípio.
 
-
-### Conhecimentos Técnicos:
-
-- Qualidade e testes de software \
-  Testes funcionais | Testes de regressão | Testes de aceitação | Testes de fumaça | Testes mobile | Testes de APIs | Testes automatizados | Testes de sistema
-- Ferramentas e Tecnologias \
-  Robot Framework | Appium | Selenium | Cypress | Postman | SOAP UI | Insomnia | Git | GitHub | AWS | JIRA
-- Linguagens de programação e Frameworks \
-  Java | Spring Boot | JavaScript | C# | ASP.NET
-- Banco de dados \
-  SQL Server | MySQL | PostgreSQL
-- Metodologias e Soft Skills \
-  Scrum | Kanban | Comunicação | Gestão de tempo | Trabalho em equipe | Resolução de problemas
-
-
 ### Conecte comigo:
 - [Phillip Marques - LinkedIn](https://www.linkedin.com/in/phillip-marques-201832161/) 
 
+### Conhecimentos Técnicos:
 
+- Qualidade e testes de software 
+   - Testes funcionais 
+   - Testes de regressão 
+   - Testes de aceitação 
+   - Testes de fumaça 
+   - Testes mobile 
+   - Testes de APIs
+   - Testes automatizados
+   - Testes de sistema
+- Ferramentas e Tecnologias 
+   - Playwright
+   - Robot Framework
+   - Appium
+   - Selenium
+   - Cypress
+   - Postman
+   - SOAP UI
+   - Insomnia
+   - Git
+   - GitHub
+   - AWS
+   - JIRA
+- Linguagens de programação e Frameworks 
+   - Java
+   - Spring Boot
+   - JavaScript
+   - C#
+   - ASP.NET
+- Banco de dados
+   - SQL Server
+   - MySQL
+   - PostgreSQL
+- Metodologias e Soft Skills
+  - Scrum
+  - Kanban
+  - Comunicação
+  - Gestão de tempo
+  - Trabalho em equipe
+  - Resolução de problemas
